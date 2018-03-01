@@ -1,5 +1,5 @@
 # Titanic-Survival-Analysis-and-Mining
-## 泰坦尼克号事故乘客幸存率数据分析,可视化及决策树模型
+## Kaggle竞赛--Titanic事故乘客幸存率数据分析及决策树模型训练
 
 ### 本项目的基本框架：
 - 定义问题
